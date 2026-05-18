@@ -59,9 +59,9 @@ Always looking to learn, create, and share knowledge.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafacodehub&show_icons=true&theme=chartreuse-dark"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafacodehub&show_icons=true&theme=chartreuse-dark"/>
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=rafacodehub&theme=chartreuse-dark"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=rafacodehub&theme=chartreuse-dark"/>
 </p>
 
 ---
