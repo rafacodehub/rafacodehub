@@ -79,5 +79,10 @@ Always looking to learn, create, and share knowledge.
 If you enjoy my projects, feel free to ⭐ star this profile or follow my journey.  
 Always learning, building, and growing in tech! 🚀
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafacodehub/rafacodehub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafacodehub/rafacodehub/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafacodehub/rafacodehub/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center"><em>© 2026 Rafael Amorim</em></p>
