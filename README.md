@@ -10,7 +10,7 @@
 <!-- Subtitle with Germany flag -->
 <h3 align="center">
   BI Analyst • Power BI • SQL 
-  <img src="[https://flagcdn.com/w40/de.png](https://github.com/rafacodehub/rafacodehub/blob/main/ASSETS/made-in-brazil.png)" width="20" alt="Brazil Flag">
+  <img src="https://github.com/rafacodehub/rafacodehub/blob/main/ASSETS/made-in-brazil.png" width="20" alt="Brazil Flag">
 </h3>
 
 <!-- Workspace image -->
