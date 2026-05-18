@@ -2,12 +2,13 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Rafael Amorim </h1>
 
+
 <!-- Matrix-style animated intro -->
 <p align="center">
   <src= "<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=21B82A&center=true&width=435&lines=Coding..." alt="Typing SVG" />
 </p>
 
-<!-- Subtitle with Germany flag -->
+<!-- Subtitle with Brazil flag -->
 <h3 align="center">
   BI Analyst • Power BI • SQL 
   <img src="https://github.com/rafacodehub/rafacodehub/blob/main/README/made-in-brazil.png" width="20" alt="Brazil Flag">
@@ -52,6 +53,16 @@ Always looking to learn, create, and share knowledge.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafacodehub&show_icons=true&theme=chartreuse-dark"/>
+
+  <img height="180em" src="https://streak-stats.demolab.com?user=rafacodehub&theme=chartreuse-dark"/>
+</p>
 
 ---
 
